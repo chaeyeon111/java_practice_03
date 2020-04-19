@@ -1,3 +1,5 @@
+package For;
+
 public class ForPractice {
 
     //for

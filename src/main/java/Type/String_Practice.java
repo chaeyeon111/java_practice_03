@@ -1,3 +1,5 @@
+package Type;
+
 public class String_Practice {
     int[]nums2={1,2,3};
     //nums2 = {1,2}; 다시 초기화 불가능

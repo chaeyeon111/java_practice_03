@@ -1,9 +1,11 @@
-public class ImportArrayPractice {
+package Array;
+
+public class Import_Array_Practice_02 {
 
     String[] topics = {"Opinion", "Tech", "Science", "Health"};
     int[] views = {0, 0, 0, 0};
 
-    public ImportArrayPractice(){
+    public Import_Array_Practice_02(){
 
     }
 
@@ -20,7 +22,7 @@ public class ImportArrayPractice {
     }
 
     public static void main(String[] args){
-        ImportArrayPractice sampleFeed = new ImportArrayPractice();
+        Import_Array_Practice_02 sampleFeed = new Import_Array_Practice_02();
 
         System.out.println("The top topic is "+ sampleFeed.getTopTopic());
 

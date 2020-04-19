@@ -1,3 +1,5 @@
+package javaPractice;
+
 public class AlgorithmPractice {
     public static void main(String[] args) {
         int makeOne = (int) (Math.random() * 10);

@@ -1,3 +1,5 @@
+package Switch;
+
 public class SwitchStringCondition {
     public static double toMoney(String c) {
         double tot = 0.0;

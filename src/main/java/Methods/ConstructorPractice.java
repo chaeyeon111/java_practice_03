@@ -1,4 +1,4 @@
-//object-oriented java practice(codeacademy)
+package Methods;//object-oriented java practice(codeacademy)
 
 public class ConstructorPractice {
     String breed;

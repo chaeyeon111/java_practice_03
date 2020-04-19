@@ -1,3 +1,5 @@
+package Methods;
+
 public abstract class ParameterPractice {
     protected int [][] magic;
     protected int n;

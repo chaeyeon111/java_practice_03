@@ -1,6 +1,8 @@
+package If_else;
+
 import org.w3c.dom.ls.LSOutput;
 
-public class AlgorithmPractice {
+public class Sum_If_Practice {
     public static void main(String[] args) {
         int makeOne = (int) (Math.random() * 10);
         System.out.println(makeOne);

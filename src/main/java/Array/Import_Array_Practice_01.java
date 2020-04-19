@@ -1,7 +1,9 @@
+package Array;
+
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class importarray{
+public class Import_Array_Practice_01 {
 
 public static void main(String[] args){
         int[] lotteryNumbers = {4, 8, 15, 16, 23, 42};

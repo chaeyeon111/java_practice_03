@@ -1,3 +1,5 @@
+package javaPractice;
+
 public class String_Practice {
     public static void main(String[] args) {
         int s = 0;

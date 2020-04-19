@@ -1,3 +1,5 @@
+package If_else;
+
 public class BitNShiftMain {
     public static String shifts(int a) {
         String s = "";

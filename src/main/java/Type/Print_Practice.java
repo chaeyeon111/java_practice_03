@@ -1,3 +1,5 @@
+package Type;
+
 public class Print_Practice {
     public static void main(String[] args) {
         System.out.print("Hello");

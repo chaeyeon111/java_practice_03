@@ -1,3 +1,5 @@
+package For;
+
 public class ForEachPractice {
     public static void main(String[] args) {
         int[]mm={1,6,22,23,33};

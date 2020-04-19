@@ -1,3 +1,5 @@
+package Type;
+
 public class Type_Practice {
 
     //psvm

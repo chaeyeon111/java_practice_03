@@ -1,3 +1,5 @@
+package For;
+
 public class ForCondition {
     public static void main(String[] args) {
         int s = 0;
