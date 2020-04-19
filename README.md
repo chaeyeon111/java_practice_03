@@ -87,24 +87,20 @@ Java Practice with related books, and Codecademy.(It doesn't cover everything I 
 ##### (5)Shift
 
 
-##
-####2. Key Features of the Java Language
-#####1)Simplicity
-#####2) Portability
-#####3) Automatic storage management
-#####4) Strong typing
-#####5)No pointers
-#####6) Exception handling
-#####7) Flexible namespace
-#####8) Security
-#####9) Standards for connectivity to relational databases
-##
-####3.Java Virtual Machine
-##
-####4.Java Class Hierarchy
 
-##
-##Reference
+### 2. Key Features of the Java Language
 
+#### 1)Simplicity
+#### 2)Portability
+#### 3)Automatic storage management
+#### 4)Strong Typing
+#### 5)No pointer
+#### 6) Exception handling
+#### 7)Flexible namespace
+#### 8)Security
+#### 9)Standards for connectivity to relational databases
 
+### 3.Java Virtual Machine
+
+### 4.Java Class Hierarchy
 
