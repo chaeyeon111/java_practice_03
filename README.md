@@ -44,7 +44,7 @@ Java Practice with related books, and Codecademy.(It doesn't cover everything I 
 #### 3)Interface
 
 #### 4)Encapsulation
-#####(1)public & private
+(1)public & private
 
 #### 5)Inheritance
 ##### (1)Overriding
