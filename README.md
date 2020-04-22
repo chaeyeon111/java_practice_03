@@ -33,6 +33,8 @@ Java Practice with related books, and Codecademy.(It doesn't cover everything I 
 (i)Import_Array_Practice_01.java
 (ii)Import_Array_Practice_02.java
 (iii)String_Array_Practice.java
+(iv)Arrays_To_String.java
+(v) String_Args_Practice.java
 ```
 
 (3)State
