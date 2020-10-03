@@ -1,10 +1,10 @@
-# About this practice
+# 📝 About this practice
 
 Java Practice with related books, and Codecademy.(It doesn't cover everything I studied, but covers important terms or challenges I had while studying java.)
 
-## Content
+## 🔗 Content
 
-### 1.Java and Object-Oriented Programming Terminology
+### 📚 Java and Object-Oriented Programming Terminology
 
 #### 1) Classes
 (1)Fields/Modifier
@@ -90,7 +90,7 @@ Java Practice with related books, and Codecademy.(It doesn't cover everything I 
 
 
 
-### 2. Key Features of the Java Language
+### 📚 Key Features of the Java Language
 
 #### 1)Simplicity
 #### 2)Portability
